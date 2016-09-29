@@ -47,4 +47,3 @@
 (5.58477112035, u'Food and Workout Log 9.27.08')
 (5.48488799917, u'Food and Workout Log 10.3.07')
 (5.10395750879, u'Food and Workout Log 10.10.07')
-
